@@ -1,0 +1,143 @@
+Header file 
+
+valid declaration
+
+value of expression: 13
+
+(a) Value of the variable: 8	
+
+Variable value: 8
+
+Variable value: 8
+
+Value of expression in IF: 8
+
+Function Declaration Successful
+
+valid declaration
+
+aaa not declared yet
+
+(bb) Value of the variable: 4	
+
+(cc) Value of the variable: 8	
+
+dd not declared yet
+
+aa not declared yet
+
+inc value: 9
+
+value of expression: 9
+
+dec value: 7
+
+value of expression: 7
+
+affirmative value: 1
+
+value of expression: 1
+
+not value: 0
+
+value of expression: 0
+
+Variable value: 8
+
+Variable value: 4
+
+value of expression: 12
+
+condition value zero in IF block
+
+Value of expression in IF: 24
+
+Value of expression in IF: 120
+
+Value of expression in IF: 9
+
+Value of expression in between ELSE: 8
+
+Value of expression in parent IF: -4
+
+Value of expression in between IF: 12
+
+Value of expression in parent ELSE: 13
+
+value of expression in ELIF: 7
+
+Variable value: 4
+
+(bb) Value of the variable: 6	
+
+For loop statement and iterator i is 2
+For loop statement and iterator i is 4
+For loop statement and iterator i is 6
+
+
+value of expression: 6
+
+Variable value: 8
+
+value of expression: 5
+
+While loop
+While loop
+While loop
+While loop
+
+value of expression: 6
+
+Variable value: 8
+
+value of expression: 5
+
+While loop
+While loop
+While loop
+While loop
+While loop
+
+value of expression: 6
+
+Variable value: 8
+
+value of expression: 5
+
+While loop
+While loop
+While loop
+While loop
+
+value of expression: 6
+
+Variable value: 8
+
+value of expression: 5
+
+While loop
+While loop
+While loop
+While loop
+
+value of expression: 6
+
+Variable value: 8
+
+value of expression: 5
+
+While loop did not run
+
+Case No : 2  and Result :  5
+
+SWITCH case.
+
+Single line comment
+
+Multiple line comment
+
+valid declaration
+
+Function Called
+
+Successful compilation
